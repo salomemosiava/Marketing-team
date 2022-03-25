@@ -14,7 +14,8 @@ body {
     width: 640px;
     display: flex;
     justify-content: space-between;
-}
+    margin-left: 101px;
+  }
   .logo {
     font-family: 'Poppins', sans-serif;
     color: white;
