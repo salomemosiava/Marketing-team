@@ -114,7 +114,6 @@ body {
   }
   .container2 {
     text-align: center;
-    margin-left: 26px;
     display: flex;
     justify-content: space-between;
     align-items: baseline;
@@ -130,7 +129,7 @@ body {
     border-top: 2px solid #000;
     border-left: 2px solid #000;
     transform: rotate(135deg);
-    margin-left: 67px;
+    margin-left: 57px;
     border-color: #FF007A;
   }
   
